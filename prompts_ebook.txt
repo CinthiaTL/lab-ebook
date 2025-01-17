@@ -1,0 +1,27 @@
+CHATGPT
+
+1) Prompt Nome do Ebook
+
+Crie um título de um ebook sobre o tema de inteligencia artificial, 
+o ebook é do nicho de programação e publico alvo são profissionais de tecnologia que 
+trabalham na área de Operações/Produção e querem migrar para a área de inteligência artificial.
+O título deve ser épico e curto, e tenha uma temática de Senhor dos Anéis, 
+me liste 5 variações de títulos.
+
+A Sociedade da IA
+"Unindo Programadores e Operações na Jornada para Dominar a Inteligência Artificial"
+
+----------------------------------------
+Gamma
+
+2) Prompt conteúdo do ebook
+
+Crie ebook chamado A Sociedade da IA - Unindo Programadores e Operações na Jornada 
+para Dominar a Inteligência Artificial - sobre o tema de inteligencia artificial, 
+o ebook é do nicho de programação e o publico alvo são profissionais de tecnologia 
+que trabalham na área de Operações/Produção e querem migrar para a área de 
+inteligência artificial, o que devem estudar e como se preparar. 
+Deve ser utilizada a temática de Senhor dos Anéis.
+
+
+
