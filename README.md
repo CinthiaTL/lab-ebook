@@ -6,6 +6,7 @@ Criação do ebook "A Sociedade da IA - Unindo Programadores e Operações na Jo
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT crição do título/subtítulo e roteirização.
+
 IA Generativa Gamma para roteirização, criação de conteúdo e imagens.
 
 ## 🧐 Processo de Criação
@@ -15,5 +16,8 @@ da forma almejada.
 ## 🚀 Resultados
 Link para a arquivo dos prompts confeccionados:
 
+https://github.com/CinthiaTL/lab-ebook/blob/main/prompts_ebook.txt
 
-Link para a arquivo do ebook.
+Link para a arquivo do ebook:
+
+https://github.com/CinthiaTL/lab-ebook/blob/main/Sociedade-da-IA.pdf
